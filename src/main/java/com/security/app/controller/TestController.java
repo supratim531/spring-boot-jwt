@@ -19,7 +19,7 @@ public class TestController {
 				+ "\r\n" + "  <!-- Bootstrap JS -->\r\n"
 				+ "  <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js\"\r\n"
 				+ "    integrity=\"sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p\"\r\n"
-				+ "    crossorigin=\"anonymous\"></script>\r\n" + "  <title>Hello, world!</title>\r\n" + "</head>\r\n"
+				+ "    crossorigin=\"anonymous\"></script>\r\n" + "  <title>Spring Boot JWT Authentication</title>\r\n" + "</head>\r\n"
 				+ "\r\n" + "<body>\r\n" + "  <div class=\"container my-5\">\r\n"
 				+ "    <h1>This is a public page (Spring Boot App - JWT Authentication)</h1>\r\n"
 				+ "    <hr class=\"text-danger\">\r\n" + "    <ul>\r\n"
